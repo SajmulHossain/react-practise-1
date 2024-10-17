@@ -13,7 +13,7 @@ const Banner = () => {
 
         <h2 className='bg-gradient font-bold text-2xl bg-clip-text text-transparent w-fit mt-2 mb-2'>Sajmul Hossain</h2>
 
-        <p className='text-text text-opacity-55 bg-background p-3 rounded-lg lg:w-10/12'>I am a passionate web developer, currently pursuing my BSc. in CSE at Port City International University. With a deep interest in coding and web development, I love creating efficient and visually appealing websites. Explore my work to see how I bring creativity and technical skills together.
+        <p className='text-text text-opacity-60 bg-background p-3 rounded-lg lg:w-10/12'>I am a passionate web developer, currently pursuing my BSc. in CSE at Port City International University. With a deep interest in coding and web development, I love creating efficient and visually appealing websites. Explore my work to see how I bring creativity and technical skills together.
         </p>
 
         <div className='flex gap-2 mt-2'>
